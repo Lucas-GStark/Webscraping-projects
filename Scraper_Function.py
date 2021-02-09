@@ -1,3 +1,5 @@
+# Code originally created by Aleksa Tamburkovski (https://www.youtube.com/channel/UCNmPE3nj8AukKQVkhBLHMPw)
+
 from bs4 import BeautifulSoup
 import requests
 import requests.exceptions
